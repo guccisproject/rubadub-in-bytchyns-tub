@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Rain Slicker Jacket"><rect width="220" height="220" rx="26" fill="#E6FBFC"/><g transform="translate(110 108) scale(1.05)">
+    <g transform="translate(0 0)">
+      <path d="M -30 -34 L -12 -44 Q 0 -34 12 -44 L 30 -34 L 20 -14 L 14 -18 L 14 40 L -14 40 L -14 -18 L -20 -14 Z"
+            fill="#0B6E77"/>
+      <circle cx="0" cy="-6" r="5" fill="#FFC93C"/>
+    </g></g><circle cx="186" cy="34" r="10" fill="#FFC93C" opacity="0.85"/></svg>

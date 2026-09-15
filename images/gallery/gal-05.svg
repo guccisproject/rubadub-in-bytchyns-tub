@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="Cozy pet bed corner"><rect width="320" height="320" rx="20" fill="#D8F4F6"/><g transform="scale(1.45)">
+    <g transform="translate(110 130) scale(1.5)">
+      <rect x="-46" y="-6" width="92" height="34" rx="16" fill="#0B6E77"/>
+      <ellipse cx="-24" cy="-18" rx="20" ry="16" fill="#FFC93C"/>
+      <ellipse cx="16" cy="-14" rx="24" ry="14" fill="#FFC93C"/>
+      <rect x="-46" y="20" width="92" height="10" rx="5" fill="#0B6E77"/>
+    </g></g></svg>

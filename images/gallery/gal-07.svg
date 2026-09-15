@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="Basket of toys ready for playtime"><rect width="320" height="320" rx="20" fill="#E6FBFC"/><g transform="scale(1.45)">
+    <g transform="translate(80 140) scale(0.8)">
+      <ellipse cx="0" cy="14" rx="30" ry="20" fill="#FFC93C"/>
+      <circle cx="18" cy="-8" r="16" fill="#FFC93C"/>
+      <path d="M 30 -10 L 46 -6 L 30 -2 Z" fill="#E8871E"/>
+      <circle cx="22" cy="-12" r="2.4" fill="#0F3A3E"/>
+      <path d="M -28 10 Q -40 12 -40 22 Q -30 20 -24 16 Z" fill="#FFC93C"/>
+    </g><circle cx="140" cy="150" r="18" fill="#12A5B0"/><path d="M 160 110 q 20 -10 20 15 q -20 10 -20 -15 Z" fill="#F2A900"/></g></svg>

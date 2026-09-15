@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="Feeding bowls set for dinner time"><rect width="320" height="320" rx="20" fill="#FFF6DE"/><g transform="scale(1.45)">
+    <g transform="translate(72 130) scale(1.1)">
+      <ellipse cx="0" cy="6" rx="46" ry="20" fill="#12A5B0"/>
+      <ellipse cx="0" cy="0" rx="46" ry="20" fill="none" stroke="#0B6E77" stroke-width="6"/>
+      <ellipse cx="0" cy="0" rx="30" ry="11" fill="#E6FBFC"/>
+    </g>
+    <g transform="translate(148 130) scale(1.1)">
+      <ellipse cx="0" cy="6" rx="46" ry="20" fill="#F2A900"/>
+      <ellipse cx="0" cy="0" rx="46" ry="20" fill="none" stroke="#0B6E77" stroke-width="6"/>
+      <ellipse cx="0" cy="0" rx="30" ry="11" fill="#E6FBFC"/>
+    </g></g></svg>

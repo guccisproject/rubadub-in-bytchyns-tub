@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="Grooming station with brushes laid out"><rect width="320" height="320" rx="20" fill="#FFF6DE"/><g transform="scale(1.45)">
+    <g transform="translate(110 120) scale(1.4)">
+      <rect x="-8" y="-42" width="16" height="52" rx="8" fill="#0B6E77"/>
+      <rect x="-34" y="-6" width="68" height="40" rx="14" fill="#0B6E77"/>
+      <g stroke="#FFC93C" stroke-width="5" stroke-linecap="round">
+        <line x1="-22" y1="6" x2="-22" y2="26"/>
+        <line x1="-8" y1="4" x2="-8" y2="28"/>
+        <line x1="6" y1="4" x2="6" y2="28"/>
+        <line x1="20" y1="6" x2="20" y2="26"/>
+      </g>
+    </g></g></svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Snuffle Mat Puzzle"><rect width="220" height="220" rx="26" fill="#FFF6DE"/><g transform="translate(110 108) scale(1.05)">
+    <g transform="translate(0 4) scale(1.05)">
+      <ellipse cx="0" cy="14" rx="30" ry="20" fill="#FFC93C"/>
+      <circle cx="18" cy="-8" r="16" fill="#FFC93C"/>
+      <path d="M 30 -10 L 46 -6 L 30 -2 Z" fill="#E8871E"/>
+      <circle cx="22" cy="-12" r="2.4" fill="#0F3A3E"/>
+      <path d="M -28 10 Q -40 12 -40 22 Q -30 20 -24 16 Z" fill="#FFC93C"/>
+    </g></g><circle cx="186" cy="34" r="10" fill="#8FE3E8" opacity="0.85"/></svg>

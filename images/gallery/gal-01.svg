@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="Happy dog mid-splash in a sudsy tub"><rect width="320" height="320" rx="20" fill="#E6FBFC"/><g transform="scale(1.45)">
+    <g>
+      <rect x="24.0" y="170.0" width="10" height="16" rx="4" fill="#0B6E77"/>
+      <rect x="186.0" y="170.0" width="10" height="16" rx="4" fill="#0B6E77"/>
+      <rect x="30.0" y="102.0" width="160" height="76" rx="38.0" fill="#FFFFFF" stroke="#0B6E77" stroke-width="6"/>
+      <path d="M 40.0 133.92 Q 70.0 117.2 110.0 133.92 Q 150.0 150.64 180.0 133.92"
+            fill="none" stroke="#3FC1CB" stroke-width="6" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(110 108) scale(0.85)">
+      <ellipse cx="0" cy="18" rx="34" ry="22" fill="#0B6E77"/>
+      <circle cx="-30" cy="-6" r="20" fill="#0B6E77"/>
+      <path d="M -46 -18 Q -54 -34 -40 -30 Q -42 -18 -46 -18 Z" fill="#0B6E77"/>
+      <path d="M -16 -20 Q -8 -34 -6 -20 Q -12 -14 -16 -20 Z" fill="#0B6E77"/>
+      <path d="M 30 24 Q 46 16 44 2 Q 36 10 28 14 Z" fill="#0B6E77"/>
+      <rect x="-14" y="34" width="8" height="14" rx="3" fill="#0B6E77"/>
+      <rect x="14" y="34" width="8" height="14" rx="3" fill="#0B6E77"/>
+    </g><circle cx="68.1" cy="104.2" r="6.6" fill="#FFFFFF" opacity="0.77"/>
+<circle cx="130.1" cy="58.3" r="4.1" fill="#FFFFFF" opacity="0.88"/>
+<circle cx="71.5" cy="74.5" r="11.0" fill="#FFFFFF" opacity="0.71"/>
+<circle cx="163.8" cy="97.7" r="8.5" fill="#FFFFFF" opacity="0.57"/>
+<circle cx="131.6" cy="135.3" r="7.7" fill="#FFFFFF" opacity="0.83"/>
+<circle cx="137.4" cy="58.1" r="9.3" fill="#FFFFFF" opacity="0.77"/>
+<circle cx="78.2" cy="55.0" r="10.1" fill="#FFFFFF" opacity="0.71"/>
+<circle cx="145.0" cy="136.4" r="9.0" fill="#FFFFFF" opacity="0.91"/></g></svg>

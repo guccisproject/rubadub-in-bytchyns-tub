@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="Storefront window with a rubber duck display"><rect width="320" height="320" rx="20" fill="#D8F4F6"/><g transform="scale(1.45)"><rect x="40" y="90" width="140" height="90" rx="10" fill="#FFFFFF" stroke="#0B6E77" stroke-width="6"/><rect x="52" y="102" width="116" height="46" rx="6" fill="#D8F4F6"/>
+    <g transform="translate(110 130) scale(0.7)">
+      <ellipse cx="0" cy="14" rx="30" ry="20" fill="#FFC93C"/>
+      <circle cx="18" cy="-8" r="16" fill="#FFC93C"/>
+      <path d="M 30 -10 L 46 -6 L 30 -2 Z" fill="#E8871E"/>
+      <circle cx="22" cy="-12" r="2.4" fill="#0F3A3E"/>
+      <path d="M -28 10 Q -40 12 -40 22 Q -30 20 -24 16 Z" fill="#FFC93C"/>
+    </g><rect x="90" y="150" width="40" height="30" fill="#0B6E77"/></g></svg>

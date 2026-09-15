@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="Dog shaking off after a bath, water droplets flying"><rect width="320" height="320" rx="20" fill="#FFF6DE"/><g transform="scale(1.45)">
+    <g transform="translate(110 120) scale(1.0)">
+      <ellipse cx="0" cy="18" rx="34" ry="22" fill="#0B6E77"/>
+      <circle cx="-30" cy="-6" r="20" fill="#0B6E77"/>
+      <path d="M -46 -18 Q -54 -34 -40 -30 Q -42 -18 -46 -18 Z" fill="#0B6E77"/>
+      <path d="M -16 -20 Q -8 -34 -6 -20 Q -12 -14 -16 -20 Z" fill="#0B6E77"/>
+      <path d="M 30 24 Q 46 16 44 2 Q 36 10 28 14 Z" fill="#0B6E77"/>
+      <rect x="-14" y="34" width="8" height="14" rx="3" fill="#0B6E77"/>
+      <rect x="14" y="34" width="8" height="14" rx="3" fill="#0B6E77"/>
+    </g><circle cx="106.8" cy="103.4" r="8.6" fill="#8FE3E8" opacity="0.92"/>
+<circle cx="124.8" cy="73.9" r="9.1" fill="#8FE3E8" opacity="0.80"/>
+<circle cx="128.3" cy="102.2" r="6.8" fill="#8FE3E8" opacity="0.85"/>
+<circle cx="108.0" cy="71.7" r="10.3" fill="#8FE3E8" opacity="0.66"/>
+<circle cx="123.6" cy="110.1" r="8.4" fill="#8FE3E8" opacity="0.57"/>
+<circle cx="155.6" cy="100.8" r="5.2" fill="#8FE3E8" opacity="0.79"/>
+<circle cx="108.5" cy="79.2" r="4.6" fill="#8FE3E8" opacity="0.59"/>
+<circle cx="202.6" cy="83.6" r="10.9" fill="#8FE3E8" opacity="0.70"/></g></svg>

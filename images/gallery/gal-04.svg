@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="Dog on a walk with a reflective leash"><rect width="320" height="320" rx="20" fill="#E6FBFC"/><g transform="scale(1.45)">
+    <g transform="translate(90 130) scale(0.9)">
+      <ellipse cx="0" cy="18" rx="34" ry="22" fill="#0B6E77"/>
+      <circle cx="-30" cy="-6" r="20" fill="#0B6E77"/>
+      <path d="M -46 -18 Q -54 -34 -40 -30 Q -42 -18 -46 -18 Z" fill="#0B6E77"/>
+      <path d="M -16 -20 Q -8 -34 -6 -20 Q -12 -14 -16 -20 Z" fill="#0B6E77"/>
+      <path d="M 30 24 Q 46 16 44 2 Q 36 10 28 14 Z" fill="#0B6E77"/>
+      <rect x="-14" y="34" width="8" height="14" rx="3" fill="#0B6E77"/>
+      <rect x="14" y="34" width="8" height="14" rx="3" fill="#0B6E77"/>
+    </g><path d="M 130 100 Q 170 90 176 60" fill="none" stroke="#3FC1CB" stroke-width="5" stroke-linecap="round"/><circle cx="176" cy="56" r="6" fill="#FFC93C"/></g></svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="Travel carrier packed for a road trip"><rect width="320" height="320" rx="20" fill="#FFF6DE"/><g transform="scale(1.45)">
+    <g transform="translate(110 130) scale(1.4)">
+      <path d="M -18 -30 Q -18 -44 0 -44 Q 18 -44 18 -30" fill="none" stroke="#0B6E77" stroke-width="8"/>
+      <rect x="-40" y="-30" width="80" height="62" rx="12" fill="#0B6E77"/>
+      <rect x="-14" y="-14" width="28" height="8" rx="4" fill="#FFC93C"/>
+    </g>
+    <g transform="translate(158 150) scale(0.5)">
+      <ellipse cx="0" cy="18" rx="34" ry="22" fill="#3FC1CB"/>
+      <circle cx="-30" cy="-6" r="20" fill="#3FC1CB"/>
+      <path d="M -46 -18 Q -54 -34 -40 -30 Q -42 -18 -46 -18 Z" fill="#3FC1CB"/>
+      <path d="M -16 -20 Q -8 -34 -6 -20 Q -12 -14 -16 -20 Z" fill="#3FC1CB"/>
+      <path d="M 30 24 Q 46 16 44 2 Q 36 10 28 14 Z" fill="#3FC1CB"/>
+      <rect x="-14" y="34" width="8" height="14" rx="3" fill="#3FC1CB"/>
+      <rect x="14" y="34" width="8" height="14" rx="3" fill="#3FC1CB"/>
+    </g></g></svg>

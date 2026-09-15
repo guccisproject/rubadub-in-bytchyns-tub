@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Rubadub in Bytchyns Tub logo">
+<rect width="64" height="64" rx="16" fill="#0B6E77"/>
+
+    <g>
+      <rect x="6.0" y="44.0" width="10" height="16" rx="4" fill="#FFFFFF"/>
+      <rect x="48.0" y="44.0" width="10" height="16" rx="4" fill="#FFFFFF"/>
+      <rect x="12.0" y="32.0" width="40" height="20" rx="10.0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+      <path d="M 22.0 40.4 Q 22.0 36.0 32.0 40.4 Q 42.0 44.8 42.0 40.4"
+            fill="none" stroke="#3FC1CB" stroke-width="0" stroke-linecap="round"/>
+    </g>
+<g transform="translate(32 30) scale(0.42)">
+    <g transform="translate(0 0) scale(1.0)">
+      <ellipse cx="0" cy="14" rx="30" ry="20" fill="#FFC93C"/>
+      <circle cx="18" cy="-8" r="16" fill="#FFC93C"/>
+      <path d="M 30 -10 L 46 -6 L 30 -2 Z" fill="#E8871E"/>
+      <circle cx="22" cy="-12" r="2.4" fill="#0F3A3E"/>
+      <path d="M -28 10 Q -40 12 -40 22 Q -30 20 -24 16 Z" fill="#FFC93C"/>
+    </g></g>
+</svg>

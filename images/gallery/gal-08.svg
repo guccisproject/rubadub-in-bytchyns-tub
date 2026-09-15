@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="Pet dressed in a cozy sweater"><rect width="320" height="320" rx="20" fill="#D8F4F6"/><g transform="scale(1.45)">
+    <g transform="translate(110 130) scale(1.4)">
+      <path d="M -30 -34 L -12 -44 Q 0 -34 12 -44 L 30 -34 L 20 -14 L 14 -18 L 14 40 L -14 40 L -14 -18 L -20 -14 Z"
+            fill="#0B6E77"/>
+      <circle cx="0" cy="-6" r="5" fill="#FFC93C"/>
+    </g></g></svg>
