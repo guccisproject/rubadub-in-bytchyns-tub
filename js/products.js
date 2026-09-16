@@ -13,6 +13,8 @@ const CATEGORIES = [
   { slug: 'apparel-accessories', label: 'Apparel & Accessories', icon: 'images/icons/apparel-accessories.svg' },
   { slug: 'toys-enrichment', label: 'Toys & Enrichment', icon: 'images/icons/toys-enrichment.svg' },
   { slug: 'on-the-go-travel', label: 'On-The-Go / Travel', icon: 'images/icons/on-the-go-travel.svg' },
+  { slug: 'cat-corner', label: 'Cat Corner', icon: 'images/icons/cat-corner.svg' },
+  { slug: 'small-pet-bird', label: 'Small Pet & Bird Basics', icon: 'images/icons/small-pet-bird.svg' },
 ];
 
 const PRODUCTS = [
@@ -47,6 +49,14 @@ const PRODUCTS = [
     price: 9.50,
     description: 'Wide- and fine-tooth combs in one set for everyday touch-ups between baths.',
     image: 'images/products/gt-04.svg', // swap-in point for a real product photo
+  },
+  {
+    id: 'gt-05',
+    name: 'Deshedding Glove',
+    category: 'grooming-tools',
+    price: 12.00,
+    description: 'Silicone nubs double as a gentle massage while collecting loose fur in one swipe.',
+    image: 'images/products/gt-05.svg', // swap-in point for a real product photo
   },
   {
     id: 'bs-01',
@@ -87,6 +97,14 @@ const PRODUCTS = [
     price: 9.75,
     description: 'A quick leave-in mist that smooths out knots before they become a whole ordeal.',
     image: 'images/products/bs-05.svg', // swap-in point for a real product photo
+  },
+  {
+    id: 'bs-06',
+    name: 'Paw Balm Wax Stick',
+    category: 'bath-spa',
+    price: 10.50,
+    description: 'A soothing balm to smooth out rough paw pads after long walks or baths.',
+    image: 'images/products/bs-06.svg', // swap-in point for a real product photo
   },
   {
     id: 'cl-01',
@@ -185,6 +203,14 @@ const PRODUCTS = [
     image: 'images/products/fe-04.svg', // swap-in point for a real product photo
   },
   {
+    id: 'fe-05',
+    name: 'Gravity Water Dispenser (2L)',
+    category: 'feeding-essentials',
+    price: 19.00,
+    description: 'A gravity-fed reservoir keeps the bowl topped off between refills, no batteries needed.',
+    image: 'images/products/fe-05.svg', // swap-in point for a real product photo
+  },
+  {
     id: 'aa-01',
     name: 'Rain Slicker Jacket',
     category: 'apparel-accessories',
@@ -215,6 +241,14 @@ const PRODUCTS = [
     price: 6.50,
     description: 'A quick clip-on bow tie that dresses up any collar for photos or parties.',
     image: 'images/products/aa-04.svg', // swap-in point for a real product photo
+  },
+  {
+    id: 'aa-05',
+    name: 'Reversible Bandana Bib',
+    category: 'apparel-accessories',
+    price: 8.00,
+    description: 'A two-pattern bib-style bandana that snaps on in seconds and flips for a second look.',
+    image: 'images/products/aa-05.svg', // swap-in point for a real product photo
   },
   {
     id: 'te-01',
@@ -249,6 +283,14 @@ const PRODUCTS = [
     image: 'images/products/te-04.svg', // swap-in point for a real product photo
   },
   {
+    id: 'te-05',
+    name: 'Plush Squeaky Duckling (Mini)',
+    category: 'toys-enrichment',
+    price: 6.00,
+    description: 'A pocket-sized plush version of our signature duck, perfectly sized for cats and small dogs.',
+    image: 'images/products/te-05.svg', // swap-in point for a real product photo
+  },
+  {
     id: 'ot-01',
     name: 'Car Seat Booster',
     category: 'on-the-go-travel',
@@ -279,6 +321,78 @@ const PRODUCTS = [
     price: 6.00,
     description: 'Clip-on dispenser with an unscented starter roll of leak-proof bags.',
     image: 'images/products/ot-04.svg', // swap-in point for a real product photo
+  },
+  {
+    id: 'ot-05',
+    name: 'Seatbelt Safety Clip',
+    category: 'on-the-go-travel',
+    price: 7.50,
+    description: 'Clips a harness to any seatbelt buckle for a safer, more settled ride.',
+    image: 'images/products/ot-05.svg', // swap-in point for a real product photo
+  },
+  {
+    id: 'cc-01',
+    name: 'Sisal Scratching Post Topper',
+    category: 'cat-corner',
+    price: 16.00,
+    description: 'A replaceable sisal-wrapped topper that fits most standard scratching posts for a fresh grip.',
+    image: 'images/products/cc-01.svg', // swap-in point for a real product photo
+  },
+  {
+    id: 'cc-02',
+    name: 'Window Perch Hammock',
+    category: 'cat-corner',
+    price: 24.50,
+    description: 'A suction-mounted hammock perch that turns any sunny window into a favorite lookout.',
+    image: 'images/products/cc-02.svg', // swap-in point for a real product photo
+  },
+  {
+    id: 'cc-03',
+    name: 'Silicone Litter-Trapping Mat',
+    category: 'cat-corner',
+    price: 14.00,
+    description: 'Textured silicone catches stray litter at the door of the box before it travels through the house.',
+    image: 'images/products/cc-03.svg', // swap-in point for a real product photo
+  },
+  {
+    id: 'cc-04',
+    name: 'Feather Wand Teaser',
+    category: 'cat-corner',
+    price: 8.50,
+    description: 'An interactive wand with a feathered lure for pouncing, batting, and general chaos.',
+    image: 'images/products/cc-04.svg', // swap-in point for a real product photo
+  },
+  {
+    id: 'sb-01',
+    name: 'Cozy Hideout Hut',
+    category: 'small-pet-bird',
+    price: 13.50,
+    description: 'A snug fabric hideaway sized for rabbits, guinea pigs, and other small companions who like to burrow.',
+    image: 'images/products/sb-01.svg', // swap-in point for a real product photo
+  },
+  {
+    id: 'sb-02',
+    name: 'Natural Wood Chew Blocks (3pc)',
+    category: 'small-pet-bird',
+    price: 9.00,
+    description: 'Untreated wood blocks that satisfy natural gnawing instincts for small pets.',
+    image: 'images/products/sb-02.svg', // swap-in point for a real product photo
+  },
+  {
+    id: 'sb-03',
+    name: 'Perch & Bath Cup Set',
+    category: 'small-pet-bird',
+    price: 11.00,
+    description: 'A clip-on perch and a shallow bath cup for aviary companions who like to splash.',
+    image: 'images/products/sb-03.svg', // swap-in point for a real product photo
+  },
+  {
+    id: 'sb-04',
+    name: 'Soft Nesting Fluff',
+    category: 'small-pet-bird',
+    price: 7.50,
+    description: 'Cruelty-free bedding fluff for nest-building birds and small pets alike.',
+    image: 'images/products/sb-04.svg', // swap-in point for a real product photo
   },
 ];
 
@@ -336,6 +450,24 @@ const BUNDLES = [
     items: ['bs-01', 'bs-03', 'gt-04', 'aa-03'],
     description: 'A gentle bubble wash, quick-dry towel, grooming comb duo, and bandanas — tub time made easy.',
     image: 'images/products/bd-06.svg', // swap-in point for a real bundle photo
+  },
+  {
+    id: 'bd-07',
+    name: 'Kitty Corner Comfort Bundle',
+    category: 'bundles',
+    price: 52.99,
+    items: ['cc-01', 'cc-02', 'cc-03', 'cc-04'],
+    description: 'A scratching post topper, window perch, litter mat, and feather wand for a fully outfitted cat corner.',
+    image: 'images/products/bd-07.svg', // swap-in point for a real bundle photo
+  },
+  {
+    id: 'bd-08',
+    name: 'Tiny Tub Travelers Kit',
+    category: 'bundles',
+    price: 34.99,
+    items: ['sb-01', 'sb-02', 'sb-03', 'sb-04'],
+    description: 'A cozy hideout, chew blocks, a perch & bath cup set, and nesting fluff for small pets and birds.',
+    image: 'images/products/bd-08.svg', // swap-in point for a real bundle photo
   },
 ];
 

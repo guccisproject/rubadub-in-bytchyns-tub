@@ -13,7 +13,7 @@ const GALLERY_ITEMS = [
   { image: "images/gallery/gal-08.svg", caption: "Bundled up and looking sharp." },
   { image: "images/gallery/gal-09.svg", caption: "Packed up for a weekend road trip." },
   { image: "images/gallery/gal-10.svg", caption: "Suds are up and towels are warm." },
-  { image: "images/gallery/gal-11.svg", caption: "Our storefront in Gadsden, NC." },
+  { image: "images/gallery/gal-11.svg", caption: "Our home base, packed and ready to ship." },
   { image: "images/gallery/gal-12.svg", caption: "The post-bath shake-off — every single time." },
 ];
 

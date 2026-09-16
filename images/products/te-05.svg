@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Rope Tug Toy"><rect width="220" height="220" rx="26" fill="#D8F4F6"/><g transform="translate(110 108) scale(1.05)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Plush Squeaky Duckling (Mini)"><rect width="220" height="220" rx="26" fill="#E6FBFC"/><g transform="translate(110 108) scale(1.05)">
     <g transform="translate(0 4) scale(1.05)">
       <ellipse cx="0" cy="14" rx="30" ry="20" fill="#FFC93C"/>
       <circle cx="18" cy="-8" r="16" fill="#FFC93C"/>
       <path d="M 30 -10 L 46 -6 L 30 -2 Z" fill="#E8871E"/>
       <circle cx="22" cy="-12" r="2.4" fill="#0F3A3E"/>
       <path d="M -28 10 Q -40 12 -40 22 Q -30 20 -24 16 Z" fill="#FFC93C"/>
-    </g></g><circle cx="186" cy="34" r="10" fill="#3FC1CB" opacity="0.85"/></svg>
+    </g></g><circle cx="186" cy="34" r="10" fill="#FFC93C" opacity="0.85"/></svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Reflective Leash 6ft"><rect width="220" height="220" rx="26" fill="#FFF6DE"/><g transform="translate(110 108) scale(1.05)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Reflective Leash 6ft"><rect width="220" height="220" rx="26" fill="#D8F4F6"/><g transform="translate(110 108) scale(1.05)">
     <g transform="translate(0 0)">
       <circle cx="0" cy="0" r="40" fill="none" stroke="#F2A900" stroke-width="14"/>
       <circle cx="0" cy="42" r="12" fill="#0B6E77"/>
       <circle cx="0" cy="42" r="4" fill="#FFFFFF"/>
-    </g></g><circle cx="186" cy="34" r="10" fill="#8FE3E8" opacity="0.85"/></svg>
+    </g></g><circle cx="186" cy="34" r="10" fill="#3FC1CB" opacity="0.85"/></svg>

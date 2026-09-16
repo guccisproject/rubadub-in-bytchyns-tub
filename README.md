@@ -1,10 +1,11 @@
 # Rubadub in Bytchyns Tub — Website
 
 A plain static HTML/CSS/JS website for **Rubadub in Bytchyns Tub**, a pet
-boutique in Gadsden, NC selling grooming, bath & spa, comfort, feeding,
-apparel, toy, and travel products for dogs and cats. There is **no build
-step and no framework** — it's just files you can open, edit, and host
-anywhere that serves static files.
+boutique (based in North Carolina, shipping nationwide across the U.S.)
+selling grooming, bath & spa, comfort, feeding, apparel, toy, travel, cat
+corner, and small pet & bird products. There is **no build step and no
+framework** — it's just files you can open, edit, and host anywhere that
+serves static files.
 
 ## Local development
 
@@ -38,7 +39,7 @@ js/gallery.js                                 galleries.html grid + lightbox
 js/checkout.js                                checkout form validation + order capture
 js/confirmation.js                            confirmation.html order lookup/render
 js/contact.js                                 contact.html mailto form
-images/icons/*.svg                            8 category icons
+images/icons/*.svg                            10 category icons
 images/products/*.svg                         product & bundle placeholder art
 images/gallery/*.svg                          gallery placeholder art
 images/brand/*.svg                            logo, favicon, homepage hero illustration
